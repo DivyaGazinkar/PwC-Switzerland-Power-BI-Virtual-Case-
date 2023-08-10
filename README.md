@@ -22,8 +22,6 @@ Utilizing Power BI's capabilities, I designed visuals that depicted the represen
 This not only shed light on the existing gender dynamics but also laid the foundation for discussions on diversity strategies. 
 By providing a visual narrative, the dashboard became a catalyst for change and progress in organizational leadership structures.
 
-Link to my Certificate : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PwC%20Switzerland/a87GpgE6tiku7q3gu_PwC%20Switzerland_dpr4hHq8XjNNPrXKM_1690742109052_completion_certificate.pdf
-
 💡 Key Takeaways
 This Power BI Virtual Case Experience with PwC Switzerland was not just about data and dashboards; 
 it was about insight discovery and strategic decision-making. The journey underscored the power of data visualization in transforming complex information into actionable insights. 
